@@ -1,0 +1,79 @@
+.body {
+    font-family: 'Open Sans', sans-serif;
+    /* color: rgb(57, 59, 60); */
+}
+
+
+.free_ship_ad {
+    text-align: center;
+    height: auto;
+
+}
+
+.free_ship_ad p {
+    color: white;
+    font-size: small;
+    padding: 10px;
+
+}
+
+.width100 {
+    width: 100%;
+}
+
+.childNavDivWidth {
+    width: 100%;
+}
+
+.childNavDivWidth ul {
+    width: 100%;
+    padding: 0px 30px;
+}
+
+
+/* .ul_nav_items {
+    background-color: aqua;
+    border: 1px solid black;
+} */
+
+.ul_nav_items li {
+    list-style-type: none;
+    padding: 0px 10px;
+
+}
+
+.ul_nav_items li a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.img_width {
+    width: 100%;
+    /* height: 500px; */
+}
+
+.clothes_kinds {
+    margin-top: 5%;
+    /* padding: 0px 5px; */
+}
+
+.kinds_img {
+    box-sizing: border-box;
+    padding: 5px;
+    width: auto;
+    height: 100%;
+
+}
+
+.section_child_fs li a {
+    font-size: smaller !important;
+}
+
+.no_border {
+    border: none;
+
+}
+
+.underline {
+    text-decoration: underline !important;
+}
